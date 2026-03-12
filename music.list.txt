@@ -1,0 +1,6 @@
+spotify.com
+soundcloud.com
+applemusic.com
+pandora.com
+tidal.com
+bandcamp.com
